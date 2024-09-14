@@ -1,6 +1,5 @@
 ## Hi there, I'm James 👋
 
-- 🔭 I’m currently working on a Pokédex application based on the Poké API
 - 🧠 I’m currently reading Effective Typescript
 - ⭐ I’m looking to collaborate on anything new and interesting in the frontend ecosystem
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jamesctobey/)
